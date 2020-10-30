@@ -2,3 +2,5 @@
 Aprendiendo Git en el curso de platzi
 
 Edicion (para el segundo commit): Ahora vivo solo y aprendo por mi cuenta TY PLATZI
+
+Edicion acerca del avamce del curos: Logro Lento pero Seguro
