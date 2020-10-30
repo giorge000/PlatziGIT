@@ -1,2 +1,4 @@
 30/10
 Aprendiendo Git en el curso de platzi
+
+Edicion (para el segundo commit): Ahora vivo solo y aprendo por mi cuenta TY PLATZI
