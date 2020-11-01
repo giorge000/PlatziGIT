@@ -3,3 +3,13 @@ body
     text-align: center;
     background-color: chartreuse;
 }
+
+#container{
+    text-align: left;
+    background-color: darkgoldenrod;
+}
+
+#cabecera{
+    text-align: left;
+    background-color: dodgerblue;
+}
